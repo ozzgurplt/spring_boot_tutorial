@@ -1,1 +1,1 @@
-#Java Spring Boot Server başlatma, Sınıf oluşturma ve Api Layer oluşturma
+Java Spring Boot Server başlatma, Sınıf oluşturma ve Api Layer oluşturma
